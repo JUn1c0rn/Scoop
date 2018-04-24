@@ -1,0 +1,21 @@
+users:
+  jue:
+    username: jue
+    articleIds: []
+    commentIds: []
+  test:
+    username: test
+    articleIds: []
+    commentIds: []
+  test2:
+    username: test2
+    articleIds: []
+    commentIds: []
+  test1:
+    username: test1
+    articleIds: []
+    commentIds: []
+articles: {}
+nextArticleId: 1
+comments: {}
+nextCommentId: 1
